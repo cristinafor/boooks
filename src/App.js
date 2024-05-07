@@ -1,4 +1,4 @@
-import logo from "./logo-cri.png";
+import logo from "./books-logo.png";
 import "./App.css";
 
 function App() {
